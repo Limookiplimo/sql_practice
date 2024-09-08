@@ -1,5 +1,3 @@
--- This is a random interview question from my escapades with sql
-
 /*
 Given the following tables describing a generic Shop selling products, please write a SQL query that answers the following question:
 
@@ -38,7 +36,7 @@ Shop productivity is measured by monetary value of sales divided by total salesp
 The Objective:
 Calculate the productivity for each shop over the last 28 days and then compare them
 
-My Thought Process:
+Thought Process:
  - Calculate total sales value for each shop in the last 28 days
  - Calculate total work hours for each shop in the last 28 day
  - Calculate productivity (sales value / work hours) for each shop
